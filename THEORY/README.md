@@ -21,16 +21,15 @@ Each topic is written in a **simple, beginner-friendly way** with examples, diag
 
 ## 📚 Folder Structure
 
+```sql
 DBMS-Theory/
 │
 ├── 01_ACID_Properties.md          # Atomicity, Consistency, Isolation, Durability
 ├── 02_Normalization.md            # 1NF, 2NF, 3NF with examples
 ├── 03_Transactions.md             # Commit, Rollback, Savepoint, Isolation levels
 ├── 04_Keys_in_DBMS.md             # Primary, Foreign, Candidate, Composite, etc.
-├── 05_SQL_Constraints.md          # NOT NULL, UNIQUE, CHECK, DEFAULT, etc.
-├── 06_Views.md                    # What is a view, types, advantages, examples
-├── 07_Indexing.md                 # Types of indexes, B-Tree, Clustered, Non-clustered
 └── README.md                      # Overview of all topics
+```
 
 ---
 

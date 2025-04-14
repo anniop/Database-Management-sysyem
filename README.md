@@ -14,7 +14,7 @@ This repository contains:
 | SELECT, WHERE, AND, OR, LIKE | ✅ Done         |
 | Aggregate Functions          | ✅ Done         |
 | GROUP BY & HAVING            | ✅ Done         |
-| JOINS (INNER, LEFT, RIGHT)   | 🔜 Coming Next |
+| JOINS (INNER, LEFT, RIGHT)   |  ✅ Done       |
 | Subqueries                   | 🔜 Coming Soon |
 | Set Operators (UNION, etc.)  | 🔜 Coming Soon |
 | CASE, NULL Functions         | 🔜 Coming Soon |

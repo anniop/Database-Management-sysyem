@@ -7,15 +7,13 @@ Each topic is written in a **simple, beginner-friendly way** with examples, diag
 
 ## 🗂️ Topics Covered
 
-| No. | Topic                        | Status ✅ |
-|-----|------------------------------|-----------|
-| 1   | 🔁 ACID Properties            | ✅ Complete |
-| 2   | 📊 Normalization (1NF → 3NF)  | ✅ Complete |
-| 3   | 🔄 Transactions               | ✅ Complete |
-| 4   | 🔑 Keys in DBMS               | ✅ Complete |
-| 5   | 🚫 Constraints in SQL         | ✅ Complete |
-| 6   | 👁️ Views in SQL               | ✅ Complete |
-| 7   | ⚡ Indexing in SQL             | ✅ Complete |
+| No. | Topic                        | Status ✅   |
+| --- | ---------------------------- | ---------- |
+| 1   | 🔁 ACID Properties           | ✅ Complete |
+| 2   | 📊 Normalization (1NF → 3NF) | ✅ Complete |
+| 3   | 🔄 Transactions              | ✅ Complete |
+| 4   | 🔑 Keys in DBMS              | ✅ Complete |
+
 
 ---
 

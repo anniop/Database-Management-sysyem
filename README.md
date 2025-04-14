@@ -9,24 +9,23 @@ Welcome to my SQL and DBMS notes repository — a **comprehensive, beginner-frie
 
 This repository contains:
 ### ✅ Practical SQL Notes (with Queries & Explanations)
-| Topic                        | Status         |
-| ---------------------------- | -------------- |
-| SELECT, WHERE, AND, OR, LIKE | ✅ Done         |
-| Aggregate Functions          | ✅ Done         |
-| GROUP BY & HAVING            | ✅ Done         |
-| JOINS (INNER, LEFT, RIGHT)   |  ✅ Done       |
-| Subqueries                   | 🔜 Coming Soon |
-| Set Operators (UNION, etc.)  | 🔜 Coming Soon |
-| CASE, NULL Functions         | 🔜 Coming Soon |
+| Topic                        | Status |
+| ---------------------------- | ------ |
+| SELECT, WHERE, AND, OR, LIKE | ✅ Done |
+| Aggregate Functions          | ✅ Done |
+| GROUP BY & HAVING            | ✅ Done |
+| JOINS (INNER, LEFT, RIGHT)   | ✅ Done |
+| Subqueries                   | ✅ Done |
+
 
 ---
 ### 📘 DBMS Theory Notes
-| Topic                         | Status     |
-|------------------------------|------------|
-| ACID Properties               | 🔜 Soon     |
-| Normalization (1NF - 3NF)     | 🔜 Soon     |
-| Transactions & Locking        | 🔜 Soon     |
-| Keys, Indexes, Views          | 🔜 Soon     |
+| Topic                     | Status |
+| ------------------------- | ------ |
+| ACID Properties           | ✅ Done |
+| Normalization (1NF - 3NF) | ✅ Done |
+| Transactions & Locking    | ✅ Done |
+| Keys, Indexes, Views      | ✅ Done |
 
 ---
 ## 🏗️ Practice Database Schema

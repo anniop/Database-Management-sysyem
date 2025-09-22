@@ -32,7 +32,9 @@ WHERE condition;
 select * from employees
 where age > 30;
 ```
+
 ---
+
 ### 2. Get Employees in HR and Finance 
 ```sql
 select first_name, department 
@@ -40,12 +42,14 @@ from employees
 where department in('HR', 'Finance');
 ```
 ---
+
 ### 3. Employees hired between 2019 and 2021
 ```sql
 select * from employees
 where hire_date between '2019-01-01' and '2021-01-01';
 ```
 ---
+
 ### 4. Names of employees whose first name starts with 'A'
 ```sql
 select first_name 
@@ -53,6 +57,7 @@ from employees
 where first_name like 'A%';
 ```
 ---
+
 ### 5. Employees not  from Marketing
 ```sql
 select * 
@@ -60,6 +65,7 @@ from employees
 where department != 'Marketing';
 ```
 ---
+
 ## 🧪 Practice Queries
 1. Get all employees with salary less than 60,000.
 	Answer:-
@@ -69,6 +75,7 @@ where department != 'Marketing';
 	where salary < 60000;
 ```
 ---
+
 2. Display employees whose age is between 26 and 35.
 	Answer:-
 	```sql
@@ -77,6 +84,7 @@ where department != 'Marketing';
 	where age between 26 and 35;
 ```
 ---
+
 3. Show employees whose name ends with 's'.
 	Answer:-
 	```sql
@@ -89,6 +97,7 @@ where department != 'Marketing';
 
 4. Get employees not hired in 2021
 	Answer:-
+
 	```sql
 	select *
 	from employee 
@@ -100,6 +109,7 @@ where department != 'Marketing';
 
 5. List employees from Engineering or Marketing department.
 	Answer:-
+
 	```sql
 select *
 from employees

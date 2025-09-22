@@ -84,15 +84,20 @@ where department != 'Marketing';
 	from employees
 	where first_name like '%s';
 ```
+
 ---
+
 4. Get employees not hired in 2021
 	Answer:-
 	```sql
 	select *
 	from employee 
 	where hire_date not between '2021-01-01' and '2021-12-31';
-```
+
 ---
+
+---
+
 5. List employees from Engineering or Marketing department.
 	Answer:-
 	```sql
@@ -101,6 +106,7 @@ from employees
 where department in('Engineering', 'Marketing');
 ```
 ---
+
 ## 💼 Interview Tips
 - Know the difference between `=` and `IN`
 - Use `BETWEEN` instead of combining `>=` and `<=`
